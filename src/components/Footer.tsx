@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 py-8">
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-white/50">
-            © {new Date().getFullYear()} MLBB Shop. Бүх эрх хуулиар хамгаалагдсан.
+            © {new Date().getFullYear()} Developed By Khos-Erdene
           </p>
           <div className="flex items-center gap-6">
             <a
