@@ -10,7 +10,7 @@ export default function Hero() {
       <div className="relative z-10 mx-auto max-w-4xl px-4 sm:px-6 text-center">
         <div className="space-y-6 animate-fade-in">
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight text-white leading-[1.05]">
-            MLBB Account
+            Khos-Erdene
             <br />
             <span className="text-white/60">Найдвартай Middleman</span>
           </h1>
